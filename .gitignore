@@ -1,0 +1,6 @@
+# Ignore macOS Resource Forks
+.DS_Store
+
+# Ignore Build Directories
+build/
+out/
